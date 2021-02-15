@@ -19,6 +19,7 @@ namespace Hotel
             //COMENTARIO X
             Application.Run(new Form1());
             //COMENTARIO Y
+            //COMENYARIO Z
         }
     }
 }
