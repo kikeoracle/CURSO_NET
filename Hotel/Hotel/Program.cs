@@ -16,6 +16,7 @@ namespace Hotel
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            //COMENTARIO X
             Application.Run(new Form1());
         }
     }
