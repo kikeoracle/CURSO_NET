@@ -23,6 +23,7 @@ namespace Mi_primer_WPF
         public MainWindow()
         {
             InitializeComponent();
+            //COMENTARIO Z
         }
     }
 }
