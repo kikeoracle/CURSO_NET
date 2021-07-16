@@ -1,0 +1,13 @@
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\bin\Debug\netcoreapp3.1\consola.exe
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\bin\Debug\netcoreapp3.1\consola.deps.json
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\bin\Debug\netcoreapp3.1\consola.runtimeconfig.json
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\bin\Debug\netcoreapp3.1\consola.runtimeconfig.dev.json
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\bin\Debug\netcoreapp3.1\consola.dll
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\bin\Debug\netcoreapp3.1\consola.pdb
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\obj\Debug\netcoreapp3.1\consola.csprojAssemblyReference.cache
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\obj\Debug\netcoreapp3.1\consola.AssemblyInfoInputs.cache
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\obj\Debug\netcoreapp3.1\consola.AssemblyInfo.cs
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\obj\Debug\netcoreapp3.1\consola.csproj.CoreCompileInputs.cache
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\obj\Debug\netcoreapp3.1\consola.dll
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\obj\Debug\netcoreapp3.1\consola.pdb
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\consola\obj\Debug\netcoreapp3.1\consola.genruntimeconfig.cache

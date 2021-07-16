@@ -1,0 +1,10 @@
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\VideoclubForms\bin\Debug\VideoclubForms.exe.config
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\VideoclubForms\bin\Debug\VideoclubForms.exe
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\VideoclubForms\bin\Debug\VideoclubForms.pdb
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\VideoclubForms\obj\Debug\VideoclubForms.csprojAssemblyReference.cache
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\VideoclubForms\obj\Debug\VideoclubForms.Form1.resources
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\VideoclubForms\obj\Debug\VideoclubForms.Properties.Resources.resources
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\VideoclubForms\obj\Debug\VideoclubForms.csproj.GenerateResource.cache
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\VideoclubForms\obj\Debug\VideoclubForms.csproj.CoreCompileInputs.cache
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\VideoclubForms\obj\Debug\VideoclubForms.exe
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\VideoclubForms\obj\Debug\VideoclubForms.pdb

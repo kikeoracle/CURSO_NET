@@ -1,0 +1,15 @@
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\bin\Debug\Primer_WPF.exe.config
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\bin\Debug\Primer_WPF.exe
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\bin\Debug\Primer_WPF.pdb
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\Primer_WPF.csprojAssemblyReference.cache
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\App.g.cs
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\Primer_WPF_MarkupCompile.cache
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\Primer_WPF_MarkupCompile.lref
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\MainWindow.baml
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\Primer_WPF.g.resources
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\Primer_WPF.Properties.Resources.resources
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\Primer_WPF.csproj.GenerateResource.cache
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\Primer_WPF.csproj.CoreCompileInputs.cache
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\Primer_WPF.exe
+C:\Users\kiker\Source\Repos\kikeoracle\CURSO_NET\consola\Primer_WPF\Primer_WPF\obj\Debug\Primer_WPF.pdb
