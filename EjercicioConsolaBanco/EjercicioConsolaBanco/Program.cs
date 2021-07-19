@@ -11,6 +11,7 @@ namespace EjercicioConsolaBanco
         //Programa para gestionar un banco
         //Se desea crear una clase tipo 
         //cuenta para gestionar
+        //Añadido mas comentario
         static void Main(string[] args)
         {
         }
